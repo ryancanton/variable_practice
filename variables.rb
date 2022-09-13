@@ -1,0 +1,2 @@
+string = "Splendid"
+string = "Inconceivable"
