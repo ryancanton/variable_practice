@@ -8,3 +8,6 @@ int3 = 52
 float = 3.14159
 float2 = 99.99
 float3 = 0.1234
+
+bool = true
+bool2 = false
